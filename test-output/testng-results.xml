@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[child dropdown is enabled and pass]]>
+    </line>
+    <line>
+      <![CDATA[4 Nights]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-12-28T01:33:36 IST" name="Default suite" finished-at="2021-12-28T01:33:50 IST" duration-ms="14097">
+    <groups>
+    </groups>
+    <test started-at="2021-12-28T01:33:36 IST" name="Default test" finished-at="2021-12-28T01:33:50 IST" duration-ms="14097">
+      <class name="com.goibibo.testscript.Home">
+        <test-method is-config="true" signature="intialiserDriver()[pri:0, instance:com.goibibo.testscript.Home@127e70c5]" started-at="2021-12-28T01:33:36 IST" name="intialiserDriver" finished-at="2021-12-28T01:33:40 IST" duration-ms="3480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialiserDriver -->
+        <test-method signature="homepage()[pri:0, instance:com.goibibo.testscript.Home@127e70c5]" started-at="2021-12-28T01:33:40 IST" name="homepage" finished-at="2021-12-28T01:33:50 IST" duration-ms="10200" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[child dropdown is enabled and pass]]>
+            </line>
+            <line>
+              <![CDATA[4 Nights]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.goibibo.testscript.Home@127e70c5]" started-at="2021-12-28T01:33:50 IST" name="closeBrowser" finished-at="2021-12-28T01:33:50 IST" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.goibibo.testscript.Home -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
